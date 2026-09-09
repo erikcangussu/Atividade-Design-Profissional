@@ -5,9 +5,10 @@ Nesta atividade, desenvolveremos um Readme, sobre um site já criado.
 # Descrição
 
 A Shopee é a principal plataforma de e-commerce do Sudeste Asiático e Taiwan, oferecendo aos usuários uma experiência de compra online fácil, segura e rápida, apoiada por forte suporte de pagamentos e logística. A empresa pertence ao grupo Sea Limited, sediado em Singapura, e opera em múltiplos países, incluindo Indonésia, Malásia, Tailândia, Vietnã, Filipinas, Taiwan e Brasil.
+
   A plataforma reúne, em um único aplicativo/site, funcionalidades de catálogo de produtos, pagamentos, logística, comunicação entre comprador e vendedor e ferramentas de marketing para lojistas, sustentadas por uma infraestrutura de backend capaz de processar centenas de bilhões de requisições por dia, segundo relato oficial da própria equipe de engenharia da Shopee.
 
-# Publico alvo
+# Público alvo
 
 - Consumidores finais (compradores);
 - Vendedores e lojistas;
